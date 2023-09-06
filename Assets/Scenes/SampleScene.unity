@@ -275,6 +275,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sensitivityH: 1
   sensitivityW: 1
+  ball: {fileID: 8251660399199810302, guid: 6d7803e997cda594a9f7cae7fbc53eda, type: 3}
+  strength: 12
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
